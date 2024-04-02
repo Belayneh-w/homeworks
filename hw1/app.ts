@@ -30,3 +30,4 @@ const concatAll = (a, b, c) => {
   return [...str, ...arr1, ...arr2];
 };
 console.log(concatAll(str, arr1, arr2));
+
