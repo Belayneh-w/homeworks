@@ -75,3 +75,48 @@
 //   alert("Hello World!")
 // }
 
+
+
+
+///React
+//a library
+//use DOM API to render dat in to html page
+//common tasks in fron-end development
+//App State
+//User Actions- event handlers respond to users actions
+//Templates- Design and render HTML templates
+//Routing- resolve URLS
+//Data fetching 
+
+
+//why React
+//b/c with the direct DOM:
+//1. complexity with DOM Api
+//2. inefficient with frequent updates
+//3. performance overHead/bottleneck
+
+
+
+//features of REact
+
+//1. component-Based Achiticture
+//2. Declarative Syntax
+//3. Virtual DOM + Diffing Algorithm
+
+
+
+// libraties
+// babel.min.js
+//react.development.js
+//react-dom.development.js
+
+
+//vDOM is object stored in memory
+
+//jsx- 
+// user-friendly syntax
+//readablity
+//Babel Transpilation
+
+
+//Create React App
